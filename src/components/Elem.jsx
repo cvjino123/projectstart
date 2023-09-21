@@ -4,6 +4,7 @@ const Elem = (props) => {
   return (
     <div>
       {props.res}
+      
     </div>
   )
 }
